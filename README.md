@@ -11,4 +11,6 @@ Ejercicios - Infraestructura Virtual
 
 [Tema 5](https://github.com/PSanchezR/Ejercicios-/wiki/Tema-5)
 
+[Tema 6](https://github.com/PSanchezR/Ejercicios-/wiki/Tema-6)
+
 [Seminario de ruby](https://github.com/PSanchezR/Ejercicios-/wiki/Seminario-de-ruby)
